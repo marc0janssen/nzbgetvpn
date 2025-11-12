@@ -44,7 +44,7 @@ fi
 aur_packages=""
 
 # call aur install script (arch user repo)
-source aur.sh
+# source aur.sh
 
 # install nzbget
 #wget -O /tmp/nzbget.run "https://github.com/nzbget/nzbget/releases/download/v${NZBGET_VERSION_DIR}/nzbget-${NZBGET_VERSION}-bin-linux.run"

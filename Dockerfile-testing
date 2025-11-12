@@ -1,6 +1,6 @@
-FROM binhex/arch-int-vpn:2025100101
+FROM binhex/arch-int-vpn:2026072801
 
-ENV NZBGET_VERSION=25.5-testing-20251107
+ENV NZBGET_VERSION=26.3-testing-20260803
 ENV NZBGET_VERSION_DIR=testing
 
 # additional files
